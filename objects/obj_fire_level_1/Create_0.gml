@@ -1,0 +1,1 @@
+has_created_fire = false;

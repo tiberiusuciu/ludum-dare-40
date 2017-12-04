@@ -1,0 +1,1 @@
+other.play_death_sequence = true;
